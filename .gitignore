@@ -1,0 +1,2 @@
+# Ignore sensitive DB config — update db.php locally before running
+# db.php is included but password is empty (XAMPP default)
