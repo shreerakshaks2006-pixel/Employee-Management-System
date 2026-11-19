@@ -1,2 +1,14 @@
-# Ignore sensitive DB config — update db.php locally before running
-# db.php is included but password is empty (XAMPP default)
+# Compiled Java classes
+bin/
+
+# JDBC driver (download separately)
+lib/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
