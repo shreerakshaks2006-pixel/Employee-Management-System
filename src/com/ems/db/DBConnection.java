@@ -12,7 +12,7 @@ public class DBConnection {
 
     private static final String DB_URL  = "jdbc:mysql://localhost:3306/employee_management?useSSL=false&serverTimezone=UTC";
     private static final String USER     = "root";       // change if needed
-    private static final String PASSWORD = "shree";      // MySQL password
+    private static final String PASSWORD = "your_password_here"; // change to your MySQL password
 
     private static Connection connection = null;
 
