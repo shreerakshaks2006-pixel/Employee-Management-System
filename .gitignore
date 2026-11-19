@@ -1,0 +1,14 @@
+# Compiled Java classes
+bin/
+
+# JDBC driver (download separately)
+lib/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
